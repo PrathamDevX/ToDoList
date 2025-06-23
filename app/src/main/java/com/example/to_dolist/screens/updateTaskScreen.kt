@@ -89,7 +89,7 @@ fun UpdateTaskScreen(navController: NavController,viewModel: TaskViewModel,task:
                 )
 
                 Text(
-                    text = "Add New",
+                    text = "Update",
                     fontSize = 35.sp,
                     modifier = Modifier.padding(horizontal = 8.dp)
                 )
